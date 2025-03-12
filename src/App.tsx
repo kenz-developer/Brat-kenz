@@ -213,13 +213,13 @@ function App() {
 
         <footer className="mt-auto py-6 text-center">
           <a
-            href="https://github.com/YoshCasaster"
+            href="https://github.com/kenz-publish"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-gray-400 hover:text-white transition-colors"
           >
             <Github size={20} />
-            <span>Created by YoshCasaster</span>
+            <span>Created by Kenz Creator</span>
           </a>
         </footer>
       </div>
